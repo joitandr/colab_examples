@@ -1,6 +1,6 @@
 
 
-[pyspark_example](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/pyspark_example.ipynb)
+[pyspark_example](https://nbviewer.org/github/joitandr/colab_examples/blob/main/pyspark_example.ipynb)
 
 [translation_transformer](https://nbviewer.org/github/andreitsev/colab_examples/blob/main/translation_transformer.ipynb)
 
